@@ -47,15 +47,13 @@ nav {
 
 /*Link Elements Styling*/
 a {
-  /*TODO  Change this styling*/
   color: black;
   text-decoration: none;
   text-decoration-color: white;
 }
 
 a:hover {
-  /*TODO  Change this styling*/
-  color: black;
+  color: rgb(125, 125, 125);
   font-size: 2rem;
 }
 
